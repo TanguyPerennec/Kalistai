@@ -1,0 +1,6 @@
+README.md
+setup.py
+Kalistai.egg-info/PKG-INFO
+Kalistai.egg-info/SOURCES.txt
+Kalistai.egg-info/dependency_links.txt
+Kalistai.egg-info/top_level.txt
